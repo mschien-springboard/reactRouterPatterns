@@ -1,0 +1,30 @@
+.DogDetails {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.DogDetails ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.DogDetails img {
+  width: 300px;
+  height: auto;
+  margin: 15px;
+  border-radius: 50%;
+}
+
+.DogDetails-title {
+  text-align: center
+}
+
+.DogDetails a {
+  /* text-decoration: none; */
+  margin-top: 15px;
+  color:black;
+  font-size: 1.5rem;
+}

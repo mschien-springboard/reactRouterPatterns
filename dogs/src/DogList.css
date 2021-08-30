@@ -1,0 +1,25 @@
+.DogList {
+  
+}
+
+.DogList img {
+  width: 200px;
+  height: auto;
+  margin: 15px;
+  border-radius: 50%;
+}
+
+.DogList-title {
+  text-align: center
+}
+
+.DogList-dogs {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.DogList-dog {
+
+}
